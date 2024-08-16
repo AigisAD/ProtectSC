@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/protectsc/static/css/main.6e1802f1.css",
+    "main.js": "/protectsc/static/js/main.e566e336.js",
+    "index.html": "/protectsc/index.html",
+    "main.6e1802f1.css.map": "/protectsc/static/css/main.6e1802f1.css.map",
+    "main.e566e336.js.map": "/protectsc/static/js/main.e566e336.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e1802f1.css",
+    "static/js/main.e566e336.js"
+  ]
+}
